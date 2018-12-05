@@ -1,1 +1,1 @@
-﻿﻿﻿Implanting first image here! [test image] (https://github.com/williamfreigang/practice/blob/master/stalker_1.jpg)
+﻿﻿﻿﻿Implanting first image here! [test image] (/practice/blob/master/stalker_1.jpg)
